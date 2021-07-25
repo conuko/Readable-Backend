@@ -24,7 +24,29 @@ const defaultData = {
     voteScore: -5,
     deleted: false,
     commentCount: 0
-  }
+  },
+  "8xf0y6ziyjabvozdd25344552": {
+    id: '8xf0y6ziyjabvozdd25344552',
+    timestamp: 1123123232,
+    title: 'Udacity is the worst place to learn React.',
+    body: 'Fuck everyone.',
+    author: 'thingtwo',
+    category: 'react',
+    voteScore: 21,
+    deleted: false,
+    commentCount: 2
+  },
+  "8xf0y6ziyfhrefvozdd253nd": {
+    id: '8xf0y6ziyfhrefvozdd253nd',
+    timestamp: 12312455534123,
+    title: 'Hollahoop.',
+    body: 'Everyone says yeah yeah!.',
+    author: 'thingone',
+    category: 'react',
+    voteScore: -10,
+    deleted: false,
+    commentCount: 20
+  },
 }
 
 function getData (token) {
