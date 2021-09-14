@@ -34,7 +34,7 @@ const defaultData = {
     category: 'react',
     voteScore: 21,
     deleted: false,
-    commentCount: 2
+    commentCount: 0
   },
   "8xf0y6ziyfhrefvozdd253nd": {
     id: '8xf0y6ziyfhrefvozdd253nd',
@@ -45,7 +45,7 @@ const defaultData = {
     category: 'react',
     voteScore: -10,
     deleted: false,
-    commentCount: 20
+    commentCount: 0
   },
 }
 
